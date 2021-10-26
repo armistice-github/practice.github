@@ -1,3 +1,2 @@
-second file
-in edu2.txt
+second file in edu2.txt okay
 
